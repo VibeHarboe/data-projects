@@ -1,4 +1,4 @@
-# Carbon Emissions by Industry - SQL Insight on Product-Level PCFs
+# Carbon Emissions by Industry - SQL Insight on Product-Level PCFs
 
 ## 🧭 Context & Challenge:
 This project explored publicly available carbon footprint data published on nature.com, covering Product Carbon Footprints (PCFs) from global companies across industries.

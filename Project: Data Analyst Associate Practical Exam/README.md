@@ -53,4 +53,9 @@ Churn Risk Flagging: Used filters to highlight product types at risk of customer
 </table>
 
 
---
+---
+
+## 🔍 Strategic Learnings:
+This project demonstrated the importance of structured SQL logic in preparing datasets for business use.
+It also confirmed that data cleaning is not just technical – it’s a strategic step that determines what the business can see, understand and act on.
+Even without visual tools, SQL alone delivered powerful insight into churn risk, price positioning and SKU health.

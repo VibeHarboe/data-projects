@@ -2,4 +2,4 @@
 A collection of my data projects from Datalab 
 
 ## 📚 DataCamp Portfolio
-- [DataCamp: Vibes Data Portfolio]([(https://www.datacamp.com/portfolio/vibes)])
+See all my SQL work & projects here: [DataCamp: Vibes Data & SQL Portfolio](https://www.datacamp.com/portfolio/vibes)

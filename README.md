@@ -1,4 +1,4 @@
-# data-projects
+# 📊 SQL Data Projects
 A collection of my data projects from Datalab 
 
 ## 📚 DataCamp Portfolio
